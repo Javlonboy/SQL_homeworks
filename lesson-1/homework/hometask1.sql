@@ -1,1 +1,1 @@
-select * from bookid
+select * from books
